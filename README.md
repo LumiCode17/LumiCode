@@ -1,7 +1,7 @@
 # Hi 👋, I'm Olumide Jones
 ## Web-Developer | Programmer | Content-creator | Youtuber | Artist
 
-- 🌱 I’m currently learning **HTML**, **CSS**, **JAVASCRIPT**, **Node**, **REACT**
+- 🌱 I’m currently learning **HTML**, **CSS**, **JAVASCRIPT**, **NODE**, **REACT**
  
 - 🔭 I’m currently working on 
 
