@@ -1,9 +1,10 @@
 # Hi 👋, I'm Olumide Jones
 ## Web-Developer | Programmer | Content-creator | Youtuber | Artist
 
-- 🌱 I’m currently learning **HTML**, **CSS**, **JAVASCRIPT**, **NODE**, **REACT**
+- 🌱 I’m currently learning **HTML**, **CSS**, **JAVASCRIPT**, **NODE**, **REACT**, **EXPRESS**, **TYPESCRIPT**
+- My skills are **HTML**, **CSS**, **SASS**, **SCSS**, **JAVASCRIPT**, **NODE**, **REACT**, **EXPRESS**, **TYPESCRIPT**
  
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on my group project
 
 - 👯 I’m looking to collaborate on both **FRONTEND and BACKEND** projects
 
