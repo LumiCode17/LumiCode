@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **HTML**, **CSS**, **JAVASCRIPT**, **NODE**, **REACT**, **EXPRESS**, **TYPESCRIPT**
  
-- 🔭 I’m currently working on my group project
+- 🔭 I’m currently working on my group final project
 
 - 👯 I’m looking to collaborate on both **FRONTEND and BACKEND** projects
 
