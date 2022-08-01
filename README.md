@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on both **FRONTEND and BACKEND** projects
 
 - 📫 How to reach me: **olumideyjones@yahoo.com | lumigoodboi@gmail.com** 
-## My Portfolio <a href="https://open.spotify.com/artist/3yqkjMHcqHPOqML0JH89mA" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
+## My Portfolio <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
 
 <a href="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="blank"><img align="center" src="https://lumi4god.github.io/Olumide-Jones-Portfolio/" alt="Tribe_of_Jones" height="30" width="80" /></a>
 
