@@ -37,7 +37,7 @@
 <a href="https://www.youtube.com/watch?v=xvmke0xc4CA&list=PLEPdzSVS7_mFNui6rhNCNMCHkYBa9Bcsf" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" height="30" width="" /></a>
 <a href="https://open.spotify.com/artist/3yqkjMHcqHPOqML0JH89mA" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username={Lumi4God}&theme=blue-green" alt="Tribe_of_Jones" height="30" width="" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username={Lumi4God}&theme=blue-green" alt="Tribe_of_Jones" height="" width="" />
 
 
 <!--
