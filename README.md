@@ -15,8 +15,9 @@
 
 <a href="https://www.youtube.com/channel/UCsbn5F9Ao1KAZwoUXjlpNGQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tribe_of_Jones" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/channel/UCsbn5F9Ao1KAZwoUXjlpNGQ" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
-"  /></a>
+<a href="https://www.tiktok.com/@tribe_of_jones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tribe_of_Jones" height="30" width="40" /></a>
+
+https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white
 
 
 
