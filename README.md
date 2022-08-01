@@ -11,6 +11,8 @@
 - 📫 How to reach me: **olumideyjones@yahoo.com | lumigoodboi@gmail.com** 
 <a href="https://lumi4god.github.io/Olumide-Jones-Portfolio/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Tribe_of_Jones" height="30" width="" /></a>
 
+<img align="center" src="https://camo.githubusercontent.com/505737d69aaa4e1eff0b5da0ca135d7136c2fe80e7cc1f773b1df74f635dffd7/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d467265656d616e4a45266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Tribe_of_Jones" height="30" width=""/>
+
 ## My Skills:
 <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Tribe_of_Jones" height="30" width=""/>
 <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Tribe_of_Jones" height="30" width="" />
