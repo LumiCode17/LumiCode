@@ -11,7 +11,7 @@
 - 📫 How to reach me: **Olumideyjones@yahoo.com | Lumigoodboi@gmail.com**
 
 ## Connect with me:
-<a href="https://www.instagram.com/tribe_of_jones/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Tribe_of_Jones" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tribe_of_jones/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
 <a href="https://www.youtube.com/channel/UCsbn5F9Ao1KAZwoUXjlpNGQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Tribe_of_Jones" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@tribe_of_jones" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
 <a href="https://www.linkedin.com/in/olumide-jones-ab2031215/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
