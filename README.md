@@ -33,7 +33,7 @@
 <a href="https://music.apple.com/us/artist/tribe-of-jones/1574320598" target="_blank"><img align="center" src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
 <a href="https://www.youtube.com/watch?v=xvmke0xc4CA&list=PLEPdzSVS7_mFNui6rhNCNMCHkYBa9Bcsf" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" height="30" width="" /></a>
 <a href="https://open.spotify.com/artist/3yqkjMHcqHPOqML0JH89mA" target="blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
-<a href="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" target="_blank"><img align="center" src="https://www.boomplay.com/artists/27647419?from=search" alt="Tribe_of_Jones" height="30" width="" /></a>
+<a href="	https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=Tidal&logoColor=white" target="_blank"><img align="center" src="https://www.boomplay.com/artists/27647419?from=search" alt="Tribe_of_Jones" height="30" width="" /></a>
 
 
 <!--
