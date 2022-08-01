@@ -1,14 +1,14 @@
 # Hi 👋, I'm Olumide Jones
-## Web-Developer | Programmer | Content-creator | Youtuber | Artist
-- My skills are **HTML**, **CSS**, **SASS**, **SCSS**, **JAVASCRIPT**, **NODE**, **REACT**, **EXPRESS**, **TYPESCRIPT**
+## Web-Developer | Artiste | Content-creator | Youtuber |
+- A Front-end developer with Full-Stack background
 
-- 🌱 I’m currently learning **HTML**, **CSS**, **JAVASCRIPT**, **NODE**, **REACT**, **EXPRESS**, **TYPESCRIPT**
+- 🌱 A recording gospel arstite
  
-- 🔭 I’m currently working on my group final project
+- 🔭 I’m currently working on ....................
 
 - 👯 I’m looking to collaborate on both **FRONTEND and BACKEND** projects
 
-- 📫 How to reach me: **Olumideyjones@yahoo.com | Lumigoodboi@gmail.com**
+- 📫 How to reach me: **olumideyjones@yahoo.com | lumigoodboi@gmail.com**
 
 ## My Skills:
 <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Tribe_of_Jones" height="30" width=""/>
