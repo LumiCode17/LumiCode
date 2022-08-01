@@ -11,7 +11,7 @@
 - 📫 How to reach me: **Olumideyjones@yahoo.com | Lumigoodboi@gmail.com**
 
 ## My Skills:
-<img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Tribe_of_Jones" height="30" width="" />
+<img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="Tribe_of_Jones" height="30" width=""/>
 <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="Tribe_of_Jones" height="30" width="" />
 <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Tribe_of_Jones" height="30" width="" />
 <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Tribe_of_Jones" height="30" width="" />
@@ -20,7 +20,7 @@
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Tribe_of_Jones" height="30" width="" />
 <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Tribe_of_Jones" height="30" width="" />
 <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tribe_of_Jones" height="30" width="" />
-<img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Tribe_of_Jones" height="30" width="" />
+<img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Tribe_of_Jones" height="30" width="" />
 
 ## Connect with me:
 <a href="https://www.instagram.com/tribe_of_jones/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Tribe_of_Jones" height="30" width="" /></a>
