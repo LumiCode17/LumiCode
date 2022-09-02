@@ -4,7 +4,7 @@
 
 - 🌱 Also a recording gospel arstite
  
-- 🔭 I’m currently working on ....................
+- 🔭 I’m currently working on a Web-Dev FAQ Website
 
 - 👯 I’m looking to collaborate on both **FRONTEND and BACKEND** projects
 
