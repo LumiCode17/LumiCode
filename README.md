@@ -1,5 +1,5 @@
 # Hi 👋, I'm Olumide Jones
-## Web-Developer | Artiste | Content-creator | Youtuber |
+## Frontend Web-Developer | Artiste | Content-creator | Youtuber | Video Editing
 -    A Front-end Developer with a Full-Stack background
 
 - 🌱 Also a recording gospel arstite
