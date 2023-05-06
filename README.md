@@ -4,7 +4,7 @@
 
 - 🌱 Also a recording arstite
  
-- 🔭 I’m currently learning SAP Basis
+- 🔭 I’m currently **learning SAP Basis**
 
 - 👯 I’m looking to collaborate on both **FRONTEND and BACKEND** projects
 
