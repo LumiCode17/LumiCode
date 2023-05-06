@@ -2,9 +2,9 @@
 ## Frontend Web-Developer | Artiste | Content-creator | Youtuber | Video Editing
 -    A Front-end Developer with a Full-Stack background
 
-- 🌱 Also a recording gospel arstite
+- 🌱 Also a recording arstite
  
-- 🔭 I’m currently working on a Web-Dev FAQ Website
+- 🔭 I’m currently learning SAP Basis
 
 - 👯 I’m looking to collaborate on both **FRONTEND and BACKEND** projects
 
